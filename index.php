@@ -2,5 +2,5 @@
 $title='This is my first test index page';
 echo $title;
 echo 'edit on my local pc';
-echo 'edit on phpstorm2';
-echo 'edit on vituarhost2';
+echo 'edit on phpstorm';
+echo 'edit on vituarhost';
